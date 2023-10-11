@@ -1,0 +1,32 @@
+Queue using linked lists
+https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
+
+
+Queue using two Stacks
+https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+
+
+Stack using two Queues
+https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
+
+
+First Non repeating character in a Stream of characters
+https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1
+
+
+Queue Reveral
+https://practice.geeksforgeeks.org/problems/queue-reversal/1
+
+
+
+deque is a very simple concept
+dq.addFirst(...);
+dq.addLast(...);
+dq.removeFirst(...);
+dq.removeLast(...);
+dq.getFirst();
+dq.getLast();
+
+using these make a statck 
+and also make a queue
+
